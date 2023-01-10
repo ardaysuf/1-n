@@ -1,5 +1,3 @@
-#1 den n e kadar olan tek sayıların toplamını ve çarpımını; çift sayıların ise karelerinin toplamını bulma
-
 n = int(input("n: "))
 
 i = 0
